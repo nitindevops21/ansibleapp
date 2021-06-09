@@ -2,7 +2,7 @@
   connection: local
   vars:
     resource_group: myResourceGroup
-    plan_name: tpcsappplan1234
+    plan_name: netlinkppplan1234
     location: eastus
 
   tasks:
